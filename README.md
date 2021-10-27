@@ -5,6 +5,7 @@ Given an image, our algorithm will predict the most likely locations where the i
 
 ![Sample Output](landmark_project/images/sample_landmark_output.png)
 
+> Took 60 mins on Tesla V100
 
 ## (Optionally) Accelerating the Training Process 
 
